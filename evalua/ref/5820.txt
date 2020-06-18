@@ -1,0 +1,1 @@
+greenstone acts like a booster for so called wireless mesh networks . it currently works with open garden's firechat off the grid firechat app . both use an ios feature called multipeer connectivity framework mcf .

@@ -1,0 +1,1 @@
+michigan micro mote is a complete computer system less that 5 mm across . contains solar cells that power the battery with ambient light . can be equipped with cameras , temperature and pressure sensors .

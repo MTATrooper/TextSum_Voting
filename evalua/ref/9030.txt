@@ -1,0 +1,1 @@
+the three letter airport codes are known as iata location identifiers . some follow a pattern like syd for sydney and mel for melbourne . others do n t seem to make any sense , like ord for chicago .

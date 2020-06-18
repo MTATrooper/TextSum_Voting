@@ -1,0 +1,1 @@
+salt card is designed to replace passwords and fingerprint scanners . automatically unlocks a phone when the card is within 10 ft of the handset . gadget also locks a chosen device when it is moved out of range .

@@ -1,0 +1,1 @@
+the satellite , sentinel 1 a , sends out radio waves and times how long it takes for them to reflect back . the data has been transformed into an interferogram showing how the land mass has shifted . scientists count the colored fringes in the interferogram to detect how much the land has moved .
